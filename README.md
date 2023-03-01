@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi there 👋🏾👋🏾👋🏾
+...
+I am Samuel Emorinken but you can call me
 
-<!--
-**Sam10-debug/Sam10-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sam10-debug
+I am (@Emor__Musk ) on Twitter, an African front end web developer that is very open to learn and grow.. these days I spend my time building whatever I deem fun or challenging.
+I am currently open to any services and collaborations and can be reached via phone, LinkedIn and most easily Twitter.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools I most commonly use are:
+Javascript
+NextJS
+Visual Studio Code
+ReactJS
+Css3
+TailwindCss
+Html
+Git
+Python
+
